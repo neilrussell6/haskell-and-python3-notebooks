@@ -1,4 +1,4 @@
-My Python & Haskell notebooks
+My Python3 & Haskell notebooks
 ===
 
 cloning this repo
