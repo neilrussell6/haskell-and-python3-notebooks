@@ -4,19 +4,19 @@ My Python3 & Haskell notebooks
 cloning this repo
 ---
 
-##### 1. IHaskell fork
+##### 1. IHaskell
 
-first clone IHaskell fork
+First clone this IHaskell fork:
 
 ```bash
 https://github.com/neilrussell6/IHaskell
 ```
 
-and follow setup instructions
+and follow setup instructions.
 
 ##### 2. this repo
 
-then clone this repo in the ``notebooks`` directory of hte IHaskell clone
+Then clone this repo into the ``notebooks`` directory of the IHaskell clone:
 
 ```bash
 cd IHaskell
@@ -26,7 +26,11 @@ git clone https://github.com/neilrussell6/haskell-and-python3-notebooks notebook
 usage
 ---
 
-follow usage instructions on https://github.com/neilrussell6/IHaskell
+Follow usage instructions on [IHaskell Fork](https://github.com/neilrussell6/IHaskell).
+
+```bash
+make serve
+```
 
 local notebooks
 ---
